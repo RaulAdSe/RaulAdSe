@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I have worked on computational physics projects. I've participated in many differents using matlab and python. Topics go from quantum cryptography to spiking neural networks.
+- 🔭 I have worked on many computational physics projects. Topics go from quantum cryptography to spiking neural networks.
 - 🌱 I’m currently learning applied mathmatics. Very keen on neuroscience and it's relationship in many cognitive and artificial intelligence areas.
 - 🌾 I'm intrested in data science and IA. I like to explore branches like data scraping, deep learning and NLP.
 
