@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I have worked on many computational physics projects. Topics include quantum cryptography, biophysics, finite element modeling on electromagnetism and spiking neural networks.
-- 🌱 I’m currently learning applied mathmatics. Very keen on neuroscience and it's relationship in many cognitive and artificial intelligence areas.
+- 🌱 I’m currently learning applied mathmatics. Very keen on neuroscience and its relationship in many cognitive and artificial intelligence areas.
 - 🌾 I'm intrested in data science and IA. I like to explore branches like data scraping, deep learning and NLP.
 
 
